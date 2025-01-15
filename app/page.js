@@ -1,3 +1,4 @@
-export default function Page() {
-    return <h1>Hello from the app directory!</h1>;
+// app/page.js
+export default function HomePage() {
+    return <h2>This is the Home Page</h2>;
   }  
